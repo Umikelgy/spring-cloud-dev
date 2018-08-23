@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1f92a071-e787-47fb-a381-1dbf85e9a0ae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/untitled/config-client-dev.properties" afterDir="false" />
-    </list>
+    <list default="true" id="1f92a071-e787-47fb-a381-1dbf85e9a0ae" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,7 +12,7 @@
     <session id="280373541">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.opened" value="2" />
@@ -123,7 +121,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534930085488" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534986616109" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="MySQL" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -162,7 +160,7 @@
       <option name="presentableId" value="Default" />
       <updated>1534757253916</updated>
       <workItem from="1534757257087" duration="1190000" />
-      <workItem from="1534927929543" duration="1217000" />
+      <workItem from="1534927929543" duration="1940000" />
     </task>
     <task id="LOCAL-00001" summary="move neo.properties">
       <created>1534927996941</created>
@@ -175,10 +173,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2407000" />
+    <option name="totallyTimeSpent" value="3130000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
